@@ -1,4 +1,5 @@
 # my lists of numbers
+
 num = [56, 78, 34, 21, 56, 34, 125, 45, 89, 75, 12, 56]
 print(sum(num))
 num.sort()

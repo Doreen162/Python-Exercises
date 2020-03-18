@@ -1,6 +1,5 @@
-import math
-
 # Variables to be use
+
 a = 8
 b = 2
 c = 1

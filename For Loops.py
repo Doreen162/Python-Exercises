@@ -1,9 +1,11 @@
 # Creating loops on Python
+
 cars = ["BMW", "VW", "FORD", "NISSAN"]
 for x in cars:
     print(x)
 
 # My list of cars
+
 cars = ["BMW", "VW", "FORD", "NISSAN"]
 for theList in cars:
 
@@ -12,12 +14,14 @@ for theList in cars:
         print(theList)
 
 # My list of bikes
+
 Bikes = ["honda", "yamaha", "KTM", "bmw"]
 for theCars in cars:
     for theBikes in Bikes:
         print(theCars, theBikes)
 
 # My list of numbers
+
 for number in range(1, 11):
     print(number)
 

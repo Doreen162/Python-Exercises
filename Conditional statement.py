@@ -1,4 +1,5 @@
 # speed limit allowed
+
 speed = int(input("Please enter your speed: "))
 average_speed = int(input("Enter allowed speed: "))
 

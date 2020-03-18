@@ -1,4 +1,5 @@
 # creating triangle
+
 print("Print full Triangle pyramid using stars ")
 size = 7
 m = (2 * size) - 2

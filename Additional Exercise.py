@@ -1,4 +1,5 @@
 # salary
+
 employee = 0.295
 other = 0.25
 gross_monthly_salary = int(input("enter gross_monthly_salary: "))

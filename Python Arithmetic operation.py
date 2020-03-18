@@ -1,4 +1,5 @@
-#Exercise 1
+# Exercise 1 Total amount of salary
+
 salary = 1500
 bonus = 200
 commission = 0.02
